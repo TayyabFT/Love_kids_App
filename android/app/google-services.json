@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "697849475194",
+    "project_id": "sayitloveforkid",
+    "storage_bucket": "sayitloveforkid.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697849475194:android:b8b7bc97db14f09e3f4bc3",
+        "android_client_info": {
+          "package_name": "com.sayitloveforkid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697849475194-irf30sgsl8uesmluoaqdmbdnrnk0v052.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sayitloveforkid",
+            "certificate_hash": "1902a3faf242f53e8a5c89cf131a36820131fd84"
+          }
+        },
+        {
+          "client_id": "697849475194-v0rt4rrdib3dqgndgp3cos313canrma0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sayitloveforkid",
+            "certificate_hash": "b6c21b6d99dfe319731173da57f49d4de8b93753"
+          }
+        },
+        {
+          "client_id": "697849475194-r82g46mbgug2jvr7fna8j18r3djh7bkh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2QCQWFMuRuK0klgO-3OZjdXXi_LH4ixU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697849475194-r82g46mbgug2jvr7fna8j18r3djh7bkh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

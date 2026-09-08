@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -E \"^\\\\.\\\\/[^/]+\\\\.md$\")",
+      "Bash(grep -v \"//\\\\|category:\\\\|QuestionCategory\\\\.\\\\|imagePath\\\\|question:\\\\|correctAnswer\\\\|options\\\\|required\")"
+    ]
+  }
+}
